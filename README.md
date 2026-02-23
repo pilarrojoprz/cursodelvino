@@ -1,4 +1,4 @@
 # cursodelvino
 
-Curso sobre el vino y sus características y cosas varias.
+Curso sobre el vino y sus características y cosas varias (o no).
 
